@@ -30,11 +30,11 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  facebook: timex4u
-  linkedin: timtech4u
-  medium: timtech4u
-  stackoverflow: 4620227
-  twitter: timtech4u
+  facebook: goldex1
+  linkedin: m3rryqold
+  medium: m3rryqold
+  #stackoverflow: 
+  twitter: m3rryqold
   # youtube: your_username
 
 topics:
@@ -46,6 +46,6 @@ topics:
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
-  - name: Go
-    web_url: https://github.com/topics/go
-    image_url: https://raw.githubusercontent.com/github/explore/424902f9441eeb28663ad3f45e25398ac3445c79/topics/go/go.png
+  - name: Django
+    web_url: hhttps://github.com/topics/django
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/django/django.png
