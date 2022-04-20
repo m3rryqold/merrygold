@@ -1,7 +1,7 @@
 layout: stacked
 style: dark
 
-repository:m3rryqold/merrygold
+repository: m3rryqold/merrygold
 
 plugins:
   - jekyll-octicons
