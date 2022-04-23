@@ -47,6 +47,9 @@
         {% endfor %}
       </div>
     {% endif %}
+    <a href="https://docs.google.com/document/d/1d66lav9U0_GNjUoRUjquJv_Zfyl4DjIPSf99UAWwzfI/edit?usp=sharing" {% if site.style == 'dark' %}class="text-white"{% endif %} target="blank">
+      View Resume
+    </a>
     {% if user.hireable %}
       <span title="Hire me" class="d-inline-block f5 rounded-2 text-white bg-green py-1 px-2">Available for hire</span>
     {% endif %}

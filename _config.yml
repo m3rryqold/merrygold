@@ -32,7 +32,7 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  facebook: goldex1
+  # facebook: goldex1
   linkedin: m3rryqold
   medium: m3rryqold
   #stackoverflow: 
@@ -40,6 +40,18 @@ social_media:
   # youtube: your_username
 
 topics:
+  - name: Blockchain
+    web_url: https://github.com/topics/blockchain
+    image_url: https://raw.githubusercontent.com/github/explore/66e4a32f59558ad7852fca3eee52b5838a5b3cc8/topics/blockchain/blockchain.png
+
+  - name: DevOps
+    web_url: https://github.com/topics/devops
+    image_url: https://raw.githubusercontent.com/github/explore/3002c1497202fcd179aa4c64194ea859dfd49820/topics/devops/devops.png
+
+  - name: Node.js
+    web_url: https://github.com/topics/nodejs
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
+
   - name: EcmaScript
     web_url: https://github.com/topics/es6
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/es6/es6.png
@@ -49,5 +61,5 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
   - name: Django
-    web_url: hhttps://github.com/topics/django
+    web_url: https://github.com/topics/django
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/django/django.png
